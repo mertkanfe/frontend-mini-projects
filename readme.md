@@ -12,6 +12,11 @@ Aşağıdaki tabloda, bu depo altında geliştirilen projelerin listesini, odakl
 | :---: | :--- | :--- | :---: | :---: |
 | **01** | **To-Do List** | `DOM Events`, `LocalStorage`, `Array Methods` | [İncele](./ToDo-List) | ✅ Tamamlandı |
 
+### 🖼️ Proje Ekran Görüntüleri
+
+#### 01. To-Do List
+<img src="screenshots/todo-list-screenshot.png" alt="To-Do List Proje Ekran Görüntüsü" width="500" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+
 ## 🛠️ Temel Özellikler ve Prensipler
 
 Bu projedeki kod mimarisi kurgulanırken şu standartlara dikkat edilmiştir:
