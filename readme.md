@@ -8,9 +8,9 @@ Bu depo; DOM manipülasyonu, veri yönetimi ve tarayıcı depolama (LocalStorage
 
 Aşağıdaki tabloda, bu depo altında geliştirilen projelerin listesini, odaklanılan teknolojileri ve kaynak kodlarına giden bağlantıları bulabilirsiniz. (Yeni projeler tamamlandıkça bu liste güncellenecektir.)
 
-| # | Proje Adı | Odaklanılan Konular / Teknolojiler | Kaynak Kod | Durum |
-| :---: | :--- | :--- | :---: | :---: |
-| **01** | **To-Do List** | `DOM Events`, `LocalStorage`, `Array Methods` | [İncele](./ToDo-List) | ✅ Tamamlandı |
+| # | Proje Adı | Odaklanılan Konular / Teknolojiler | Kaynak Kod | Canlı Demo | Durum |
+| :---: | :--- | :--- | :---: | :---: | :---: |
+| **01** | **To-Do List** | `DOM Events`, `LocalStorage`, `Array Methods` | [📂 İncele](./ToDo-List) | [🚀 Önizle](https://mertkanfe.github.io/frontend-mini-projects/ToDo-List/) | ✅ Tamamlandı |
 
 ### 🖼️ Proje Ekran Görüntüleri
 
