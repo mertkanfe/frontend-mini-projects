@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>ToDo-List</title>
+    <link rel="stylesheet" href="style.css" />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css"
+      integrity="sha512-Evv84Mr4kqVGRNSgIGL/F/aIDqQb7xQ2vcrdIwxfjThSH8CSR7PBEakCr51Ck+w+/U6swU2Im1vVX0SVk9ABhg=="
+      crossorigin="anonymous"
+      referrerpolicy="no-referrer"
+    />
+  </head>
+  <body>
+    <div class="app">
+      <header>
+        <h1>
+          <i class="fas fa-check-circle"></i>
+          My List
+        </h1>
+        <p id="date"></p>
+      </header>
+
+      <div class="todo-input">
+        <input type="text" id="task-input" placeholder="What did you do today?" />
+        <button id="add-task">
+          <i class="fas fa-plus"></i>
+        </button>
+      </div>
+
+      <div class="filters">
+        <span class="filter active" data-filter="all"> All List </span>
+        <span class="filter" data-filter="active"> Do it </span>
+        <span class="filter" data-filter="completed"> Completed </span>
+      </div>
+
+      <div class="todos-container">
+        <ul id="todos-list">
+        </ul>
+        <div class="empty-state hidden">
+          <i class="fas fa-clipboard-list"></i>
+          <p>Where is your list?</p>
+        </div>
+      </div>
+
+      <footer>
+        <p id="items-left">0 items left</p>
+        <button id="clear-completed">Delete my completed</button>
+      </footer>
+    </div>
+
+    <script src="script.js"></script>
+  </body>
+</html>
