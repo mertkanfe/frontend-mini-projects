@@ -12,6 +12,7 @@ Aşağıdaki tabloda, bu depo altında geliştirilen projelerin listesini, odakl
 | :---: | :--- | :--- | :---: | :---: | :---: |
 | **01** | **To-Do List** | `DOM Events`, `LocalStorage`, `Array Methods` | [📂 İncele](./ToDo-List) | [🚀 Önizle](https://mertkanfe.github.io/frontend-mini-projects/ToDo-List/) | ✅ Tamamlandı |
 | **02** | **Password Wizard** | `String Methods`, `Math.random()`, `Clipboard API` | [📂 İncele](./Password-Wizard) | [🚀 Önizle](https://mertkanfe.github.io/frontend-mini-projects/Password-Wizard/) | ✅ Tamamlandı |
+| **03** | **Registration Form** | `Form Validation`, `Regex`, `Custom Error Messages` | [📂 İncele](./Registration-Form) | [🚀 Önizle](https://mertkanfe.github.io/frontend-mini-projects/Registration-Form/) | ✅ Tamamlandı |
 
 ### 🖼️ Proje Ekran Görüntüleri
 
@@ -20,6 +21,9 @@ Aşağıdaki tabloda, bu depo altında geliştirilen projelerin listesini, odakl
 
 #### 02. Password Wizard
 <img src="screenshots/password-wizard-screenshot.png" alt="Password Wizard Proje Ekran Görüntüsü" width="500" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+
+#### 03. Registration Form
+<img src="screenshots/registration-form-screenshot.png" alt="Registration Form Proje Ekran Görüntüsü" width="500" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
 
 ## 🛠️ Temel Özellikler ve Prensipler
 
