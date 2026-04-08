@@ -14,6 +14,7 @@ Aşağıdaki tabloda, bu depo altında geliştirilen projelerin listesini, odakl
 | **02** | **Password Wizard** | `String Methods`, `Math.random()`, `Clipboard API` | [📂 İncele](./Password-Wizard) | [🚀 Önizle](https://mertkanfe.github.io/frontend-mini-projects/Password-Wizard/) | ✅ Tamamlandı |
 | **03** | **Registration Form** | `Form Validation`, `Regex`, `Custom Error Messages` | [📂 İncele](./Registration-Form) | [🚀 Önizle](https://mertkanfe.github.io/frontend-mini-projects/Registration-Form/) | ✅ Tamamlandı |
 | **04** | **Color Generator** | `DOM Manipulation`, `Hex/RGB Colors`, `Event Listeners` | [📂 İncele](./Color-Generator) | [🚀 Önizle](https://mertkanfe.github.io/frontend-mini-projects/Color-Generator/) | ✅ Tamamlandı |
+| **05** | **Currency Exchange** | `Fetch API`, `Async/Await`, `JSON` | [📂 İncele](./Currency-Exchange) | [🚀 Önizle](https://mertkanfe.github.io/frontend-mini-projects/Currency-Exchange/) | ✅ Tamamlandı |
 
 ### 🖼️ Proje Ekran Görüntüleri
 
@@ -28,6 +29,9 @@ Aşağıdaki tabloda, bu depo altında geliştirilen projelerin listesini, odakl
 
 #### 04. Color Generator
 <img src="screenshots/color-generator-screenshot.png" alt="Color Generator Proje Ekran Görüntüsü" width="500" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+
+#### 05. Currency Exchange
+<img src="screenshots/currency-exchange-screenshot.png" alt="Currency Exchange Proje Ekran Görüntüsü" width="500" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
 
 ## 🛠️ Temel Özellikler ve Prensipler
 
