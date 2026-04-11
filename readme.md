@@ -17,6 +17,7 @@ Aşağıdaki tabloda, bu depo altında geliştirilen projelerin listesini, odakl
 | **05** | **Currency Exchange** | `Fetch API`, `Async/Await`, `JSON` | [📂 İncele](./Currency-Exchange) | [🚀 Önizle](https://mertkanfe.github.io/frontend-mini-projects/Currency-Exchange/) | ✅ Tamamlandı |
 | **06** | **Expenses Report** | `Object Manipulation`, `Dynamic Rendering`, `Math Calculation` | [📂 İncele](./Expenses-Report) | [🚀 Önizle](https://mertkanfe.github.io/frontend-mini-projects/Expenses-Report/) | ✅ Tamamlandı |
 | **07** | **Newsletter Design** | `CSS Grid / Flexbox`, `Responsive Design`, `Form UI` | [📂 İncele](./Newsletter-Design) | [🚀 Önizle](https://mertkanfe.github.io/frontend-mini-projects/Newsletter-Design/) | ✅ Tamamlandı |
+| **08** | **Example Form** | `HTML Forms`, `Input Styling`, `CSS Layouts` | [📂 İncele](./Example-Form) | [🚀 Önizle](https://mertkanfe.github.io/frontend-mini-projects/Example-Form/) | ✅ Tamamlandı |
 
 ### 🖼️ Proje Ekran Görüntüleri
 
@@ -40,6 +41,9 @@ Aşağıdaki tabloda, bu depo altında geliştirilen projelerin listesini, odakl
 
 #### 07. Newsletter Design
 <img src="screenshots/newsletter-design-screenshot.png" alt="Newsletter Design Proje Ekran Görüntüsü" width="500" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+
+#### 08. Example Form
+<img src="screenshots/example-form-screenshot.png" alt="Example Form Proje Ekran Görüntüsü" width="500" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
 
 ## 🛠️ Temel Özellikler ve Prensipler
 
