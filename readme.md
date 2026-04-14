@@ -19,6 +19,8 @@ Aşağıdaki tabloda, bu depo altında geliştirilen projelerin listesini, odakl
 | **07** | **Newsletter Design** | `CSS Grid / Flexbox`, `Responsive Design`, `Form UI` | [📂 İncele](./Newsletter-Design) | [🚀 Önizle](https://mertkanfe.github.io/frontend-mini-projects/Newsletter-Design/) | ✅ Tamamlandı |
 | **08** | **Example Form** | `HTML Forms`, `Input Styling`, `CSS Layouts` | [📂 İncele](./Example-Form) | [🚀 Önizle](https://mertkanfe.github.io/frontend-mini-projects/Example-Form/) | ✅ Tamamlandı |
 | **09** | **Bookmark** | `URL Validation`, `LocalStorage`, `DOM Manipulation` | [📂 İncele](./Bookmark) | [🚀 Önizle](https://mertkanfe.github.io/frontend-mini-projects/Bookmark/) | ✅ Tamamlandı |
+| **10** | **Support Page** | `FAQ Layout`, `CSS Transitions`, `User Interaction` | [📂 İncele](./Support-Page) | [🚀 Önizle](https://mertkanfe.github.io/frontend-mini-projects/Support-Page/) | ✅ Tamamlandı |
+| **11** | **Subscriptions** | `Pricing UI`, `Toggle Switch`, `Flexbox Layout` | [📂 İncele](./Subscriptions) | [🚀 Önizle](https://mertkanfe.github.io/frontend-mini-projects/Subscriptions/) | ✅ Tamamlandı |
 
 ### 🖼️ Proje Ekran Görüntüleri
 
@@ -48,6 +50,12 @@ Aşağıdaki tabloda, bu depo altında geliştirilen projelerin listesini, odakl
 
 #### 09. Bookmark
 <img src="screenshots/bookmark-screenshot.png" alt="Bookmark Proje Ekran Görüntüsü" width="500" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+
+#### 10. Support Page
+<img src="screenshots/support-page-screenshot.png" alt="Support Page Proje Ekran Görüntüsü" width="500" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+
+#### 11. Subscriptions
+<img src="screenshots/subscriptions-screenshot.png" alt="Subscriptions Proje Ekran Görüntüsü" width="500" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
 
 ## 🛠️ Temel Özellikler ve Prensipler
 
