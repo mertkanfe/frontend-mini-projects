@@ -21,6 +21,7 @@ Aşağıdaki tabloda, bu depo altında geliştirilen projelerin listesini, odakl
 | **09** | **Bookmark** | `URL Validation`, `LocalStorage`, `DOM Manipulation` | [📂 İncele](./Bookmark) | [🚀 Önizle](https://mertkanfe.github.io/frontend-mini-projects/Bookmark/) | ✅ Tamamlandı |
 | **10** | **Support Page** | `FAQ Layout`, `CSS Transitions`, `User Interaction` | [📂 İncele](./Support-Page) | [🚀 Önizle](https://mertkanfe.github.io/frontend-mini-projects/Support-Page/) | ✅ Tamamlandı |
 | **11** | **Subscriptions** | `Pricing UI`, `Toggle Switch`, `Flexbox Layout` | [📂 İncele](./Subscriptions) | [🚀 Önizle](https://mertkanfe.github.io/frontend-mini-projects/Subscriptions/) | ✅ Tamamlandı |
+| **12** | **Page 404** | `CSS Animations`, `Responsive Design`, `Error Handling UI` | [📂 İncele](./Page-404) | [🚀 Önizle](https://mertkanfe.github.io/frontend-mini-projects/Page-404/) | ✅ Tamamlandı |
 
 ### 🖼️ Proje Ekran Görüntüleri
 
@@ -56,6 +57,12 @@ Aşağıdaki tabloda, bu depo altında geliştirilen projelerin listesini, odakl
 
 #### 11. Subscriptions
 <img src="screenshots/subscriptions-screenshot.png" alt="Subscriptions Proje Ekran Görüntüsü" width="500" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+
+#### 12. Page 404
+<img src="screenshots/page-404-screenshot.png" alt="Page 404 Proje Ekran Görüntüsü" width="500" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+
+#### 13. Colleagues
+<img src="screenshots/colleagues-screenshot.png" alt="Colleagues Proje Ekran Görüntüsü" width="500" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
 
 ## 🛠️ Temel Özellikler ve Prensipler
 
