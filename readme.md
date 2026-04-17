@@ -22,6 +22,8 @@ Aşağıdaki tabloda, bu depo altında geliştirilen projelerin listesini, odakl
 | **10** | **Support Page** | `FAQ Layout`, `CSS Transitions`, `User Interaction` | [📂 İncele](./Support-Page) | [🚀 Önizle](https://mertkanfe.github.io/frontend-mini-projects/Support-Page/) | ✅ Tamamlandı |
 | **11** | **Subscriptions** | `Pricing UI`, `Toggle Switch`, `Flexbox Layout` | [📂 İncele](./Subscriptions) | [🚀 Önizle](https://mertkanfe.github.io/frontend-mini-projects/Subscriptions/) | ✅ Tamamlandı |
 | **12** | **Page 404** | `CSS Animations`, `Responsive Design`, `Error Handling UI` | [📂 İncele](./Page-404) | [🚀 Önizle](https://mertkanfe.github.io/frontend-mini-projects/Page-404/) | ✅ Tamamlandı |
+| **13** | **Colleagues** | `Card UI Design`, `List Rendering`, `Profile Layouts` | [📂 İncele](./Colleagues) | [🚀 Önizle](https://mertkanfe.github.io/frontend-mini-projects/Colleagues/) | ✅ Tamamlandı |
+| **14** | **Scroll Loading Percentage** | `Scroll Events`, `Progress Bar UI`, `Viewport Calculations` | [📂 İncele](./Scroll-Loading-Percentage) | [🚀 Önizle](https://mertkanfe.github.io/frontend-mini-projects/Scroll-Loading-Percentage/) | ✅ Tamamlandı |
 
 ### 🖼️ Proje Ekran Görüntüleri
 
@@ -63,6 +65,9 @@ Aşağıdaki tabloda, bu depo altında geliştirilen projelerin listesini, odakl
 
 #### 13. Colleagues
 <img src="screenshots/colleagues-screenshot.png" alt="Colleagues Proje Ekran Görüntüsü" width="500" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+
+#### 14. Scroll Loading Percentage
+<img src="screenshots/scroll-loading-screenshot.png" alt="Scroll Loading Percentage Proje Ekran Görüntüsü" width="500" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
 
 ## 🛠️ Temel Özellikler ve Prensipler
 
