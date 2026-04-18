@@ -24,6 +24,7 @@ Aşağıdaki tabloda, bu depo altında geliştirilen projelerin listesini, odakl
 | **12** | **Page 404** | `CSS Animations`, `Responsive Design`, `Error Handling UI` | [📂 İncele](./Page-404) | [🚀 Önizle](https://mertkanfe.github.io/frontend-mini-projects/Page-404/) | ✅ Tamamlandı |
 | **13** | **Colleagues** | `Card UI Design`, `List Rendering`, `Profile Layouts` | [📂 İncele](./Colleagues) | [🚀 Önizle](https://mertkanfe.github.io/frontend-mini-projects/Colleagues/) | ✅ Tamamlandı |
 | **14** | **Scroll Loading Percentage** | `Scroll Events`, `Progress Bar UI`, `Viewport Calculations` | [📂 İncele](./Scroll-Loading-Percentage) | [🚀 Önizle](https://mertkanfe.github.io/frontend-mini-projects/Scroll-Loading-Percentage/) | ✅ Tamamlandı |
+| **15** | **Quiz Game** | `Logic Design`, `State Management`, `Dynamic UI Rendering` | [📂 İncele](./Quiz-Game) | [🚀 Önizle](https://mertkanfe.github.io/frontend-mini-projects/Quiz-Game/) | ✅ Tamamlandı |
 
 ### 🖼️ Proje Ekran Görüntüleri
 
@@ -68,6 +69,9 @@ Aşağıdaki tabloda, bu depo altında geliştirilen projelerin listesini, odakl
 
 #### 14. Scroll Loading Percentage
 <img src="screenshots/scroll-loading-screenshot.png" alt="Scroll Loading Percentage Proje Ekran Görüntüsü" width="500" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+
+#### 15. Quiz Game
+<img src="screenshots/quiz-game-screenshot.png" alt="Quiz Game Proje Ekran Görüntüsü" width="500" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
 
 ## 🛠️ Temel Özellikler ve Prensipler
 
