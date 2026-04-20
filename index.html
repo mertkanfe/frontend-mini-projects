@@ -1,0 +1,203 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mert | Frontend Mini Projects Showcase</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <style>
+        :root {
+            --bg-color: #246ab1;
+            --card-bg: #ffffff;
+            --primary-color: #2563eb;
+            --text-main: #05101a;
+            --text-muted: #1f2631;
+            --accent-color: #3b82f6;
+        }
+
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            font-family: 'Inter', -apple-system, sans-serif;
+        }
+
+        body {
+            background-color: var(--bg-color);
+            color: var(--text-main);
+            line-height: 1.6;
+            padding: 2rem 1rem;
+        }
+
+        .header {
+            text-align: center;
+            max-width: 800px;
+            margin: 0 auto 3rem auto;
+        }
+
+        .header h1 {
+            font-size: 2.5rem;
+            color: var(--text-main);
+            margin-bottom: 1rem;
+        }
+
+        .header p {
+            color: var(--text-muted);
+            font-size: 1.1rem;
+        }
+
+        .project-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+            gap: 1.5rem;
+            max-width: 1200px;
+            margin: 0 auto;
+        }
+
+        .project-card {
+            background: var(--card-bg);
+            border-radius: 12px;
+            padding: 1.5rem;
+            box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1);
+            transition: transform 0.3s ease, box-shadow 0.3s ease;
+            display: flex;
+            flex-direction: column;
+            justify-content: space-between;
+            border: 1px solid #e2e8f0;
+        }
+
+        .project-card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1);
+        }
+
+        .project-id {
+            font-weight: 800;
+            color: var(--primary-color);
+            opacity: 0.3;
+            font-size: 1.2rem;
+            margin-bottom: 0.5rem;
+        }
+
+        .project-title {
+            font-size: 1.25rem;
+            font-weight: 700;
+            margin-bottom: 0.5rem;
+            color: var(--text-main);
+        }
+
+        .project-tags {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 0.5rem;
+            margin-bottom: 1.5rem;
+        }
+
+        .tag {
+            background: #eff6ff;
+            color: var(--primary-color);
+            font-size: 0.75rem;
+            padding: 0.2rem 0.6rem;
+            border-radius: 999px;
+            font-weight: 600;
+        }
+
+        .project-links {
+            display: flex;
+            gap: 1rem;
+            margin-top: auto;
+        }
+
+        .btn {
+            flex: 1;
+            text-align: center;
+            padding: 0.6rem;
+            border-radius: 8px;
+            text-decoration: none;
+            font-size: 0.9rem;
+            font-weight: 600;
+            transition: opacity 0.2s;
+        }
+
+        .btn-demo {
+            background-color: var(--primary-color);
+            color: white;
+        }
+
+        .btn-code {
+            background-color: #f1f5f9;
+            color: var(--text-main);
+        }
+
+        .btn:hover {
+            opacity: 0.9;
+        }
+
+        footer {
+            text-align: center;
+            margin-top: 4rem;
+            color: var(--text-muted);
+            font-size: 0.9rem;
+        }
+
+        @media (max-width: 640px) {
+            .header h1 { font-size: 2rem; }
+        }
+    </style>
+</head>
+<body>
+
+    <header class="header">
+        <h1>🚀 Frontend Mini Projects 🚀</h1>
+        <p>JavaScript, HTML5 ve CSS3 temellerini pekiştirmek için geliştirdiğim 15 fonksiyonel web projesi.</p>
+    </header>
+
+    <main class="project-grid" id="projectGrid">
+        </main>
+
+    <footer>
+        <p>Geliştirici: Mert | 2026</p>
+    </footer>
+
+    <script>
+        const projects = [
+            { id: "01", title: "To-Do List", tags: ["DOM", "LocalStorage"], folder: "ToDo-List" },
+            { id: "02", title: "Password Wizard", tags: ["Crypto", "JS"], folder: "Password-Wizard" },
+            { id: "03", title: "Registration Form", tags: ["Validation", "RegEx"], folder: "Registration-Form" },
+            { id: "04", title: "Color Generator", tags: ["DOM", "Hex"], folder: "Color-Generator" },
+            { id: "05", title: "Currency Exchange", tags: ["API", "Fetch"], folder: "Currency-Exchange" },
+            { id: "06", title: "Expenses Report", tags: ["Math", "Objects"], folder: "Expenses-Report" },
+            { id: "07", title: "Newsletter Design", tags: ["Grid", "UI"], folder: "Newsletter-Design" },
+            { id: "08", title: "Example Form", tags: ["HTML", "CSS"], folder: "Example-Form" },
+            { id: "09", title: "Bookmark", tags: ["Validation", "Storage"], folder: "Bookmark" },
+            { id: "10", title: "Support Page", tags: ["Transitions", "UX"], folder: "Support-Page" },
+            { id: "11", title: "Subscriptions", tags: ["Pricing", "Flexbox"], folder: "Subscriptions" },
+            { id: "12", title: "Page 404", tags: ["Animation", "UI"], folder: "Page-404" },
+            { id: "13", title: "Colleagues", tags: ["Card UI", "Rendering"], folder: "Colleagues" },
+            { id: "14", title: "Scroll Loading %", tags: ["Scroll", "Events"], folder: "Scroll-Loading-Percentage" },
+            { id: "15", title: "Quiz Game", tags: ["Logic", "State"], folder: "Quiz-Game" }
+        ];
+
+        const grid = document.getElementById('projectGrid');
+
+        projects.forEach(project => {
+            const card = document.createElement('div');
+            card.className = 'project-card';
+            card.innerHTML = `
+                <div>
+                    <div class="project-id">#${project.id}</div>
+                    <div class="project-title">${project.title}</div>
+                    <div class="project-tags">
+                        ${project.tags.map(tag => `<span class="tag">${tag}</span>`).join('')}
+                    </div>
+                </div>
+                <div class="project-links">
+                    <a href="./${project.folder}/index.html" class="btn btn-demo">🚀 Demo</a>
+                    <a href="https://github.com/mertkanfe/frontend-mini-projects/tree/main/${project.folder}" class="btn btn-code">📂 Kod</a>
+                </div>
+            `;
+            grid.appendChild(card);
+        });
+    </script>
+</body>
+</html>
